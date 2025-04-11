@@ -44,6 +44,16 @@ http://localhost:3000
 
 **🔧 Requires Node.js 18+ and internet connection for Overpass/Nominatim APIs.**
 
+## 🔮 Future Improvements
+
+While the current version uses rule-based logic to suggest business opportunities, there is potential to enhance this with AI:
+
+- **AI-Powered Recommendations**: Integrate a machine learning model that considers not only business density, but also factors like population, land use, traffic, and spending habits in the area.
+- **Custom Business Scoring**: Use AI to score locations based on user-defined business types and success likelihood.
+- **Trend Forecasting**: Incorporate external datasets (e.g., government economic data or Google Trends) to suggest up-and-coming business types.
+
+These improvements would help users make smarter decisions backed by data, not just business count.
+
 ## 📄 License
 This project is licensed under the MIT License. See LICENSE for details.
 
