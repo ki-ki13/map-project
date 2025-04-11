@@ -21,7 +21,7 @@ No account or login is needed — it’s lightweight and works instantly.
 
 ## 📽️ Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the demo](https://img.youtube.com/vi/Qe0QoHu-3iU/0.jpg)](https://www.youtube.com/watch?v=Qe0QoHu-3iU)
 
 ➡️ Click the image to watch the demo on YouTube.
 
